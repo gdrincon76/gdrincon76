@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi I'm a Ghost and a Raven! 🐦 😉
-## A developer based in Barcelona
+## Developer based in Barcelona
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdrincon76&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
